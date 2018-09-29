@@ -14,5 +14,5 @@
         └── app.jsx
         └── index.css
 ```
-启动服务 npm run dev
-打包构建 npm run build
+```启动服务 npm run dev```
+```打包构建 npm run build```
