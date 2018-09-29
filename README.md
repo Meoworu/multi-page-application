@@ -6,8 +6,8 @@
 2.下载完依赖包之后，你可以在pages文件下创建应用文件夹其目录结构如下
 ── pages
 │   ├── home
-│   │   └── index.js
-|   |   └── app.jsx
+│   │   └── index.js \n
+|   |   └── app.jsx  \n
 |   |   └── index.css
 │   ├── login
 │   │   └── index.js
